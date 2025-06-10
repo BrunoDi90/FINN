@@ -1,0 +1,1 @@
+from apps.financa.admin.transacao import TransacaoAdmin
